@@ -1,3 +1,5 @@
+Formado em Química (Bacharelado) e quase formado em Química (Licenciatura) pela Universidade de Brasília (UnB), me apaixonei pela área da tecnologia e hoje estudo Análise e Desenvolvimento de Sistemas no Centro Universitário de Brasília (UniCEUB). 
+Atualmente, trabalho como desenvolvedor utilizando Javascript/Typescript e Python, bibliotecas e frameworks associados a essas linguagens, como React, React-Native, Flask e FastAPI e bancos de dados SQLite, PostgtreSQL e Oracle.
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
