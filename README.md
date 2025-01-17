@@ -1,14 +1,22 @@
-Formado em Química (Bacharelado) e quase formado em Química (Licenciatura) pela Universidade de Brasília (UnB), me apaixonei pela área da tecnologia e hoje estudo Análise e Desenvolvimento de Sistemas no Centro Universitário de Brasília (UniCEUB). 
-Atualmente, trabalho como desenvolvedor utilizando Javascript/Typescript e Python, bibliotecas e frameworks associados a essas linguagens, como React, React-Native, Flask e FastAPI e bancos de dados SQLite, PostgtreSQL e Oracle.
+Sou um desenvolvedor de software com mais de três anos de experiência em projetos complexos e de grande impacto. Com graduações em Análise e Desenvolvimento de Sistemas e Química, possuo uma combinação muito interessante de raciocínio analítico e habilidades técnicas para enfrentar desafios de maneira eficaz. 
+
+Minha trajetória profissional abrange a colaboração em projetos de amplo espectro para empresas e órgãos públicos, onde atuei no desenvolvimento de soluções voltadas para a automação de processos, combate a fraudes, integração de serviços e melhorias operacionais, sempre adotando e aplicando conceitos e práticas de Domain Driven Development (DDD) e Test Driven Development (TDD) para assegurar a qualidade, o desempenho e a escalabilidade do código. 
+Possuo experiência com Python, trabalhando com frameworks como FastAPI, Flask e Django, JavaScript/TypeScript, criando interfaces dinâmicas com React, React Native e Next.js e um conhecimento aprofundado em PostgreSQL, SQLite, Oracle.
+
+Valorizo bastante a troca de conhecimento entre os membros da equipe, a adoção de boas práticas de desenvolvimento e a criação de soluções que realmente agreguem valor.
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Miguel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miguel-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="50" height="50" alt="Pytest"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60" height="60" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" width="50" height="50" alt="Poetry"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="50" height="50" alt="SQLAlchemy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
 </div>
   
   ##
