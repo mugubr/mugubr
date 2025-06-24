@@ -1,9 +1,3 @@
-Miguel de Freitas Muniz
-
-
-
-<br/>
-
 I'm a software developer with over three years of experience driving complex, high-impact projects. My academic background, combining Systems Analysis and Development with Chemistry, equips me with a distinctive blend of analytical rigor and technical prowess, enabling me to effectively navigate and solve challenging problems.
 
 Throughout my career, I've contributed to a diverse array of projects for both private companies and public sector organizations. My work has involved developing solutions for process automation, combating fraud, integrating services, and enhancing operational efficiency. I consistently apply Domain-Driven Design (DDD) and Test-Driven Development (TDD) principles to ensure robust code quality, optimal performance, and scalability.
